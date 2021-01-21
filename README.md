@@ -1,0 +1,1 @@
+Just a simple exercise to go over what i have learned about the DOM on the odin project.
